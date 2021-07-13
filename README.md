@@ -1,4 +1,4 @@
-<h2><b>SneakMax site layout👟:</b> https://velichkoals.github.io/sneakmax/ </h2>
+<h2><b>SneakMax site layout:</b> https://velichkoals.github.io/sneakmax/ </h2>
 
 
 <h3>💭 <b>Description: </b></h3>

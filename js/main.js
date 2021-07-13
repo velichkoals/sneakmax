@@ -96,7 +96,7 @@ var prodSlider = new Swiper('.modal-slider__container', {
 if (catalogList) {
   var loadProducts = function loadProducts() {
     var quantity = arguments.length > 0 && arguments[0] !== undefined ? arguments[0] : 5;
-    fetch('../data/data.json').then(function (response) {
+    fetch('./data/data.json').then(function (response) {
       return response.json();
     }).then(function (data) {
       dataLength = data.length;

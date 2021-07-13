@@ -1,1 +1,1 @@
-# sneakmax
+# SneakMax site layout
